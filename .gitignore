@@ -1,0 +1,14 @@
+node_modules
+dist
+
+.npm
+npm-debug.log*
+.eslintcache
+
+.env
+.env.*
+!.env.example
+
+.vscode-test
+
+.vscode
